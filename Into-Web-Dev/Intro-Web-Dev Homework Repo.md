@@ -15,7 +15,7 @@ What I have Learned about the Internet. I have already learned most of this stuf
 <br>
 <br>
 <h3> My Resources </h3>
-W3Schools & <b>Jon Duckett's HTML & CSS</b>
+W3Schools + <b>Jon Duckett's HTML & CSS</b>
 <br>
 <a href="https://media-ed-online.github.io/intro-web-dev/">UM course website</a>
 
