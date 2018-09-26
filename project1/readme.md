@@ -6,4 +6,4 @@
 <h3> Live Link </h3>
 <br>
 
-[Live Sketch Link] (https://yewtreedesign.github.io/web-dev-hw/project1/)
+[Live Sketch Link] (https://yewtreedesign.github.io/web-dev-hw/project1)
