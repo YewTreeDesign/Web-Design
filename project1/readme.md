@@ -34,4 +34,7 @@ it would appear that the site is favouring the left side.<br>
 
 Now the website is adjusted to fit any screen and it's not set to a fixed
 ratio.
-*********************************************************************
+***************************
+Screenshot of my workspace.
+
+<img src="assets/screenshot.png">
