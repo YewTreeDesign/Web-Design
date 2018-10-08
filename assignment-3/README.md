@@ -17,6 +17,7 @@
 I have also linked another page through the nav elements. I stuck with the instructions presented on the Moodle website.</li>
 </ol>
 <br>
+<br>
 Here's My workspace. Don't pay much mind to the chicken on the pizza, because I don't know either.<br>
 
 <img src="assets/screenshot.png">
