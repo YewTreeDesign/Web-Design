@@ -2,6 +2,7 @@
 <br>
 <h2>Assignment 3 </h2>
 <hr>
+<h3> [Live Sketch Link] (https://yewtreedesign.github.io/web-dev-hw/assignment-3) </h3>
 <br>
 
 <ol>
