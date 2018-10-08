@@ -13,8 +13,9 @@
 <li> Structural markups are what effect the flow of a webpage and Semantic Markups are what brings more emphasis on elements</li><br>
 <h4> What Have I done? </h4><br>
 <li> All I have done is made a very cut and dry website with information of a recipe for java chip muffins. I worked with meta elements and some markup elements.<br>
-I have also linked another page through the nav elements. I stuck with the instructions presented on the Moodle website.
+I have also linked another page through the nav elements. I stuck with the instructions presented on the Moodle website.</li>
+</ol>
 <br>
 Here's My workspace. Don't pay much mind to the chicken on the pizza, because I don't know either.<br>
 
-<a href="assets/screenshot.png">Screenshot</a>
+<img src="assets/screenshot.png">
