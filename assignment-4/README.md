@@ -6,7 +6,7 @@
 <br>
 
 
-<br<h4>A.) Briefly describe the difference between divs, classes, ids, and spans</h4>
+<br><h4>A.) Briefly describe the difference between divs, classes, ids, and spans</h4>
 
 <br>The differences are that divs are block elements, used for styling in the HTML5 with out creating a separate Custom Style Sheet (CSS).
 <br>Spans name Div elements.
