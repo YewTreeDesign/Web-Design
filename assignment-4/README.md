@@ -9,8 +9,8 @@
 <br><h4>A.) Briefly describe the difference between divs, classes, ids, and spans</h4>
 
 <br>The differences are that divs are block elements, used for styling in the HTML5 with out creating a separate Custom Style Sheet (CSS).
-<br>Spans name Div elements.
-<br>Ids are used to fill in details with in the Div.
+<br>Spans are inline. It contains content in big blocks on the page.
+<br>Ids are identifiers. They uniquely identifies an element.
 <br>
 <br><h4>B.) What is "alt text," and why do we use it?</h4>
 <br>
@@ -18,7 +18,8 @@
 <br>
 <br<h4>C.) Summarize your work cycle for this assignment</h4>
 <br>  All I have done was followed the instructions provided on the Moodle, I used iFrame and Source elements to represent the media on the page.
-I can't wait till we start doing CSS so the code wouldn't be so congested with a lot of Div element.
+I can't wait till we start doing CSS so the code wouldn't be so congested with a lot of Div element. Yet I have found learning Divs essential because there are some<br>
+classes that CSS won't be able to read and just ignore it.<br>
 <br>I couldn't get a free/safe copy of the song so I just shared the song from my iTunes... It only previews <br>
 1:30 of it.
 <br>
