@@ -18,7 +18,8 @@
 <br>
 <br<h4>C.) Summarize your work cycle for this assignment</h4>
 <br>  All I have done was followed the instructions provided on the Moodle, I used iFrame and Source elements to represent the media on the page.
-I can't wait till we start doing CSS so the code wouldn't be so congested. I can't get a free/safe copy of the song so I just shared the song from my iTunes... It only previews <br>
+I can't wait till we start doing CSS so the code wouldn't be so congested with a lot of Div element.
+<br>I couldn't get a free/safe copy of the song so I just shared the song from my iTunes... It only previews <br>
 1:30 of it.
 <br>
 
