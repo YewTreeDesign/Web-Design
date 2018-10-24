@@ -14,7 +14,7 @@
 <br>
 <br><h4>B.) What is "alt text," and why do we use it?</h4>
 <br>
-<br>Alt is used to give a description of an image, incase if the image isn't showing up on the browser or visually impaired.
+<br>Alt is used to give a description of an image, incase if the image isn't showing up on the browser or for the visually impaired.
 <br>
 <br<h4>C.) Summarize your work cycle for this assignment</h4>
 <br>  All I have done was followed the instructions provided on the Moodle, I used iFrame and Source elements to represent the media on the page.
