@@ -1,0 +1,94 @@
+
+body {
+  background-color: white;
+  font-family: sans-serif;
+  text-align: center;
+    margin: 0;
+}
+
+
+
+.square {
+  zoom: 1;
+
+  width: 433px;
+  height: 800px;
+  float:left;
+}
+#Magenta {
+  background-color: #D30166;
+
+  top: 0;
+  left: 0;
+}
+#Teal {
+  background-color: #05889A;
+
+  top: 0;
+  right: 0;
+}
+#ChromeYellow {
+  background-color: #FFBB11;
+  bottom: 0;
+  left: 0;
+}
+#Indigo {
+  background-color: #222074;
+
+  bottom: 0;
+  right: 0;
+}
+
+
+/* Sticker */
+img#sticker {
+  height: 100px;
+  position: absolute;
+  top: -180px;
+  right: 1610px;
+
+}
+
+
+.square>img {
+
+}
+img~.double {
+  right: 30px;
+  opacity: 0.2;
+}
+img~.triple {
+  right: 50px;
+  opacity: 0.1;
+}
+.align-left {
+  position: absolute;
+  bottom: 40px;
+  left: 10px;
+}
+.align-right {
+  position: absolute;
+  bottom: 100px;
+  left: 100px;
+}
+
+
+/* Text */
+.text-container {
+  background-color: rgba(255, 255, 255, 0.8);
+  width: 400px;
+  position: absolute;
+
+  /* For Fun! To Center Vertically and Horizontally */
+  top: 50%;
+  left: 86%;
+     -ms-transform: translate(-50%, -50%); /* IE 9 */
+ -webkit-transform: translate(-50%, -50%); /* Safari 3-8 */
+         transform: translate(-50%, -50%);
+}
+h1+p {
+  background-color: black;
+  color: white;
+  padding: 5px;
+  letter-spacing: 4px;
+}
