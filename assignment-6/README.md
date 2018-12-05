@@ -23,7 +23,7 @@ the content</b>
 D.) Summarize your work cycle for this assignment. Review this page if you need some ideas.<br>
 
     <b>I have played around with how the title is layed out. I also added a glow to the text.
-    What I tried to do is have the U and the H huge but I found that a little tricky to do. I am content with how it turned out.</b>
+    What I tried to do is have the U and the H huge but I found that a little tricky to do.<br> I am content with how it turned out.</b>
 <br>
 <br>
 E.) Embed a screenshot of your workspace at some point during your development cycle.
