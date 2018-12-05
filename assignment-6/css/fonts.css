@@ -1,0 +1,11 @@
+/* From the Google Fonts Library */
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,800');
+
+
+/* Self-Hosted From my Fonts Folder */
+@font-face {
+  font-family: 'Raleway-ExtraBold';
+  src: url('fonts/Raleway-ExtraBold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
